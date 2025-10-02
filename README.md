@@ -37,8 +37,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Neplod&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neplod&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neplod&show_icons=true&theme=codeSTACKr&hide_rank=true" height="165"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neplod&layout=compact&theme=codeSTACKr" height="165"/>
+</div>
 
 ---
 
