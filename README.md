@@ -5,7 +5,7 @@
 ---
 
 ## 🔭 Sobre mí
-- 🌱 Actualmente aprendiendo: **C**
+- 🌱 Actualmente aprendiendo: **Godot y GDScript**
 - 🎯 Objetivo actual: *"Terminar algún proyecto"*  
 - 📚 Coautor en [DivulgandoCiencia.com](https://divulgandociencia.com)  
 - ⚡ Fun fact: **Tengo sueño** 😴
