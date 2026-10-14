@@ -1,14 +1,10 @@
 # 👋 Hi, I'm Neplod ^.^
 
 💻 Developer and Student
-
----
-
+<br/><br/>
 ## 🔭 About me
 IDK. Just sleepy for now.
-
----
-
+<br/><br/>
 ## 🛠️ Skills
 
 ### 🌐 WebDev
@@ -19,9 +15,7 @@ IDK. Just sleepy for now.
 
 ### 🔧 Tools & Others
 [![My Skills](https://skillicons.dev/icons?i=git,github,npm,pnpm,vercel,cloudflare,postman,docker,raspberrypi&theme=dark)](https://skillicons.dev)
-
----
-
+<br/><br/>
 ## 🚀 Featured Projects
 
 - **Enigma Machine**<br/>
@@ -31,9 +25,7 @@ IDK. Just sleepy for now.
 - **ShawOS**<br/>
   Web-based operative system simulation.<br/>
   🌐 [Repository (Project-Shaww/ShawOS)](https://github.com/Project-Shaww/ShawOS)
-
----
-
+<br/><br/>
 ## 📫 Contact
 - ✉️ [Email](mailto:neplod)  
 - 🐦 [Twitter/X](https://x.com/neplod)  
