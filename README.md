@@ -5,7 +5,7 @@
 ---
 
 ## 🔭 About me
-- IDK. Just sleepy for now.
+IDK. Just sleepy for now.
 
 ---
 
@@ -24,13 +24,13 @@
 
 ## 🚀 Featured Projects
 
-- **Enigma Machine**
-  Python implementation of Enigma Machine.
-  🌐 [Repo](https://github.com/Neplod/enigma-machine)
+- **Enigma Machine**<br/>
+  Python implementation of Enigma Machine.<br/>
+  🌐 [Repository (Neplod/enigma-machine)](https://github.com/Neplod/enigma-machine)
 
-- **ShawOS**
-  Web-based operative system simulation.
-  🌐 [Repo](https://github.com/Project-Shaww/ShawOS)
+- **ShawOS**<br/>
+  Web-based operative system simulation.<br/>
+  🌐 [Repository (Project-Shaww/ShawOS)](https://github.com/Project-Shaww/ShawOS)
 
 ---
 
