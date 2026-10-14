@@ -22,7 +22,19 @@
 
 ---
 
-## 📫 Contacto
+## 🚀 Featured Projects
+
+- **Enigma Machine**
+  Python implementation of Enigma Machine.
+  🌐 [Repo](https://github.com/Neplod/enigma-machine)
+
+- **ShawOS**
+  Web-based operative system simulation.
+  🌐 [Repo](https://github.com/Project-Shaww/ShawOS)
+
+---
+
+## 📫 Contact
 - ✉️ [Email](mailto:neplod)  
 - 🐦 [Twitter/X](https://x.com/neplod)  
 - 📸 [Instagram](https://instagram.com/neplod_ig)  
